@@ -10,7 +10,7 @@ utteranc[^1] 是一个基于 GitHub Issues 构建的轻量级评论小部件。�
 
 这段代码用来展示我是如何把 utteranc 嵌入我的博客的。
 
-在文件 Utterances.tsx 中，你需要更改 repo 为你自己的仓库。随后，你可以在博客页面中导入这个组件并使用。
+在文件 Utterances.tsx 中，需要更改 repo 为你自己的仓库。随后，可以在博客页面中导入这个组件并使用。
 ```tsx
 import React, { useEffect } from 'react';
 
