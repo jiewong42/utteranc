@@ -41,7 +41,7 @@ const Utterances: React.FC = () => {
 
 export default Utterances;
 ```
-具体而言，在 post.tsx 文件中，使用 import 导入组件，再用 <Utterances />使用
+具体而言，在 post.tsx 文件中，使用 import 导入组件，再用``` <Utterances />``` 使用
 
 ```tsx
 
